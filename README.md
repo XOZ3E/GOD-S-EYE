@@ -28,7 +28,7 @@ This is a **base project** still under development using the **Darknet framework
   - Efficient and accurate text detection
 
 # SETUP_AND_REQUIREMENTS
-#I DIDN'T UPLODE THE WHOLE CODE CONTACT IF YOU WANNA CONTRIBUTE AND USE IT 
+# I DIDN'T UPLODE THE WHOLE CODE CONTACT IF YOU WANNA CONTRIBUTE AND USE IT 
 Put these files in the same folder as `TheEye.py`:
 - `yolov4.cfg`
 - `yolov4.weights`
@@ -50,8 +50,11 @@ Put these files in the same folder as `TheEye.py`:
 - Real-time alerts
 - Webcam input toggle
 - OCR text extraction from detected text
-[Watch here](https://www.youtube.com/watch?v=5WGWMRBSylE)
 
+# WATCH HERE
+[Youtube](https://www.youtube.com/watch?v=5WGWMRBSylE)
+
+# VIDEO USED FORM PEXELS
 [**Video used**](https://www.pexels.com/video/officers-investigating-7253660)
 
 # LICENSE_AND_DISCLAIMER
