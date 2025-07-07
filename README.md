@@ -64,8 +64,6 @@ Built for learning and concept testing only.
 Contact maintainers directly to collaborate responsibly.
 
 
-<!-- replace above with your image link if you want -->
-
 ## CONTACT
 All queries and collaborations are welcome.  
 For help, suggestions, or ideas:
